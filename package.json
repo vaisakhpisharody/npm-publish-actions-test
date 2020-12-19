@@ -1,0 +1,20 @@
+{
+  "name": "npm-publish-actions-test",
+  "version": "1.0.0",
+  "description": "Just a simple Hello World package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaisakhpisharody/npm-publish-actions-test.git"
+  },
+  "keywords": [
+    "npm",
+    "GitHub Actions"
+  ],
+  "author": "Vaisakh Pisharody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaisakhpisharody/npm-publish-actions-test/issues"
+  },
+  "homepage": "https://github.com/vaisakhpisharody/npm-publish-actions-test#readme"
+}
