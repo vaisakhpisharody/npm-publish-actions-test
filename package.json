@@ -1,6 +1,6 @@
 {
   "name": "npm-publish-actions-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a simple Hello World package",
   "main": "index.js",
   "repository": {
